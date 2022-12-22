@@ -17,7 +17,7 @@ namespace WindowsGSM.Plugins
             author = "Addicted Games - Necrodemus",
             description = "Icarus Dedicated Server",
             version = "1.0",
-            url = "https://github.com/Necrodemus/windowsgsm-plugins", // Github repository link (Best practice)
+            url = "https://github.com/Necrodemus/WindowsGSM_Plugins", // Github repository link (Best practice)
             color = "#ffffff" // Color Hex
         };
 
